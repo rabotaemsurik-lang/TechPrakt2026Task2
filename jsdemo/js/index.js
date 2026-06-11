@@ -61,3 +61,4 @@ console.log(myf.bind(user));
 console.log(user.getLogin());
 const admin = new Admin('admin', '123456', 'all');
 */
+console.log("Виконання 2 завдання з навчальної практики");
